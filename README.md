@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="./.github/logo.png">
+    <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
     <br><br>
     <b>Conecte pessoas a orfanatos e traga felicidade as crianças!</b>  
     <br>
@@ -10,9 +10,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
   <a>
-  <img alt="License" src="licenca">
-  <br><br>
-
+</p>
 
 # Índice
 
