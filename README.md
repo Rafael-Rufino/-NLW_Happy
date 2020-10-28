@@ -119,5 +119,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/" target="_blank">Rafael Rufino</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/rafael-rufino-b889311ba/" target="_blank">Rafael Rufino</a>
 </h4>
